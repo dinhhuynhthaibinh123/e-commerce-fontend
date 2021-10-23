@@ -4,10 +4,10 @@ import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import { Badge } from "@material-ui/core";
 
 const Container = styled.div`
-  height: 60px;
+  height: 62px;
 `;
 
-const Wrapper = styled.div`
+const Wrapper = styled.div` 
   padding: 10px 40px;
   display: flex;
   justify-content: space-between;

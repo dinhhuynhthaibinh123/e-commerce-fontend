@@ -6,10 +6,10 @@ const Container = styled.div`
   background-color: teal;
   color: white;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   font-size: 14px;
-  font-weight: 500px;
+  font-weight: 500;
 `;
 
 const Announcement = () => {
